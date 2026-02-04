@@ -22,7 +22,7 @@ Sebelum menjalankan skrip ini, pastikan sistem Anda sudah memiliki:
 
 ## Cara Instalasi & Penggunaan
 
-1. **Unduh skrip**:
+1. **Unduh script**:
    ```bash
    git clone https://github.com/Dhans62/ESP-FLASHER.git Arduino
    ```
@@ -32,7 +32,7 @@ Sebelum menjalankan skrip ini, pastikan sistem Anda sudah memiliki:
    chmod +x esp-run.sh
    ```
 
-5. **Jalankan skrip**:
+5. **Jalankan script**:
    ```bash
    ./esp-run.sh
    ```
