@@ -39,7 +39,7 @@ Sebelum menjalankan skrip ini, pastikan sistem Anda sudah memiliki:
 
 7. **using the "esp" command**:
    ```bash
-   echo "alias esp='/home/dhan/Arduino/esp-run.sh'" >> ~/.bashrc
+   echo "alias esp='\$HOME/Arduino/esp-run.sh'" >> ~/.bashrc
    ```
 
 9. **restart atau jalankan**:
