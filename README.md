@@ -23,13 +23,19 @@ Sebelum menjalankan skrip ini, pastikan sistem Anda sudah memiliki:
 ## Cara Instalasi & Penggunaan
 
 1. **Unduh skrip**:
-   Simpan kode skrip dengan nama esp-run.sh di direktori pilihan Anda.
+   ```bash
+   git clone https://github.com/Dhans62/ESP-FLASHER.git Arduino
+   ```
 
-2. **Berikan izin eksekusi**:
-   `chmod +x esp-run.sh`
+3. **Berikan izin eksekusi**:
+   ```bash
+   chmod +x esp-run.sh
+   ```
 
-3. **Jalankan skrip**:
-   `./esp-run.sh`
+5. **Jalankan skrip**:
+   ```bash
+   ./esp-run.sh
+   ```
 
 **Catatan**: Pada saat pertama kali dijalankan, skrip akan mengunduh dan mengonfigurasi arduino-cli secara otomatis jika belum tersedia.
 
