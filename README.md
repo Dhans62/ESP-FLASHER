@@ -40,7 +40,7 @@ Proyek ini dibangun dengan dukungan dari:
 * **Arduino IDE / Arduino CLI**
   https://github.com/arduino/arduino-cli
 * **Ubuntu chroot**
-  https://www.ubuntu.com/
+https://github.com/ravindu644/Ubuntu-Chroot.git
 
 **By Dhann**
 Dibuat untuk mempermudah ekosistem pengembangan embedded system di lingkungan mobile terminal.
